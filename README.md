@@ -52,7 +52,7 @@ Feel free to reach out if you'd like to collaborate or just talk tech:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexdist&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexdist&show_icons=true&hide_rank=true&theme=default" />
 </p>
 
 ---
