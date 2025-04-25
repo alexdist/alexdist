@@ -47,6 +47,11 @@ Feel free to reach out if you'd like to collaborate or just talk tech:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
 </p>
 
+## ⚙️ Other Technologies & Libraries
+<p>
+  <img src="https://img.shields.io/badge/OpenMP-00599C?style=flat&logo=c&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
